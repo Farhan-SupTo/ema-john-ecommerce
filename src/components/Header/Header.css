@@ -16,3 +16,12 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+
+.sign-out{
+    color: #FFFFFF;
+    margin-left: 10px;
+    background-color: rgb(152, 110, 33);
+}
+.user-mail{
+    padding-left: 10px;
+}
